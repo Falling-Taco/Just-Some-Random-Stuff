@@ -1,4 +1,5 @@
 import random
+
 class TossSimulator():
     heads = 0
     tails = 0
